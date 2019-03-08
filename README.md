@@ -1,2 +1,5 @@
 # JVM-Meetup-17
-Summarize form JVM Meetup #16 @ Centennial Tower Gatot Subroto - 12nd Floor
+Summarize from JVM Meetup #17 @ BNI Syari'ah Pusat
+
+- 19A Jalan Haji R. Rasuna Said  Pavilion Tempo 1 Floor 6
+
