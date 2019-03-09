@@ -10,17 +10,16 @@ Summarize from JVM Meetup #17 @ BNI Syari'ah Pusat
 
 ![JVM #17 Poster](img/jvm17_landscape.jpeg "JVM #17 Poster")
 
-
 Photo Session
 
-Photo Session JVM Meetup 17
+![Photo Session JVM Meetup 17](img/jvm17_photosession.jpg "JVM Meetup #17 Photo session")
 
 Ayo join JVM User Group di telegram untuk diskusi lebih lanjut.
 
-Join Us : @JVMUserGroup
+Join Us : [@JVMUserGroup](t.me/JVMUserGroup)
 
-Like & Follow Instagram : JVM Developer ID
+Like & Follow Instagram : [JVM Indonesia](https://www.instagram.com/jvmindonesia/)
 
-Like & Follow : JVM Developer ID
+Like & Follow : [JVM Developer ID](https://www.facebook.com/JVMDeveloperID/)
 
-Subscribe : JVM Indonesia
+Subscribe : [JVM Indonesia](https://www.youtube.com/channel/UCXwXmQEQySqhqAMmys4N56w)
