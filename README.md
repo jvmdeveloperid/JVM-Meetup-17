@@ -16,7 +16,7 @@ Photo Session
 
 Ayo join JVM User Group di telegram untuk diskusi lebih lanjut.
 
-Join Us : [@JVMUserGroup](t.me/JVMUserGroup)
+Join Us : [@JVMUserGroup](https://t.me/JVMUserGroup)
 
 Like & Follow Instagram : [JVM Indonesia](https://www.instagram.com/jvmindonesia/)
 
